@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="UTF-8">
+<title>Dino Zarafat Oyunu</title>
+<style>
+body{
+    margin:0;
+    background:#eee;
+    font-family:Arial, sans-serif;
+    overflow:hidden;
+}
+canvas{
+    display:block;
+    margin:40px auto;
+    background:#fff;
+    border:2px solid #000;
+}
+#finish{
+    text-align:center;
+    font-size:32px;
+    color:#e60000;
+    display:none;
+}
+</style>
+</head>
+<body>
+
+<canvas id="game" width
